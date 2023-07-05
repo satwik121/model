@@ -3,4 +3,5 @@ streamlit
 numpy
 matplotlib
 statsmodels
+plotly
 
